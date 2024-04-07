@@ -172,6 +172,8 @@
     <None Include="..\..\Demo1.uproject"/>
     <None Include="..\..\Source\Demo1.Target.cs"/>
     <None Include="..\..\Source\Demo1Editor.Target.cs"/>
+    <None Include="..\..\.gitattributes"/>
+    <None Include="..\..\.gitignore"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
