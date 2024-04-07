@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Demo1",
+			"Path": "C:\\Users\\ChessyLocarda\\Documents\\UnrealProjects\\Demo1\\Demo1\\Demo1\\Source\\Demo1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Demo1Editor",
+			"Path": "C:\\Users\\ChessyLocarda\\Documents\\UnrealProjects\\Demo1\\Demo1\\Demo1\\Source\\Demo1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

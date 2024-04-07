@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\chessylocarda\\documents\\unrealprojects\\demo1\\demo1\\demo1\\intermediate\\build\\win64\\unrealeditor\\inc\\demo1\\demo1gamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\chessylocarda\\documents\\unrealprojects\\demo1\\demo1\\demo1\\intermediate\\build\\win64\\demo1editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\chessylocarda\\documents\\unrealprojects\\demo1\\demo1\\demo1\\intermediate\\build\\win64\\unrealeditor\\development\\demo1\\definitions.demo1.h",
+            "c:\\users\\chessylocarda\\documents\\unrealprojects\\demo1\\demo1\\demo1\\source\\demo1\\demo1gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\chessylocarda\\documents\\unrealprojects\\demo1\\demo1\\demo1\\intermediate\\build\\win64\\unrealeditor\\inc\\demo1\\demo1gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

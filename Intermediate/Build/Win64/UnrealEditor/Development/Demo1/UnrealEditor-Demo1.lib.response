@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Demo1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ChessyLocarda\Documents\UnrealProjects\Demo1\Demo1\Demo1\Intermediate\Build\Win64\Demo1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ChessyLocarda\Documents\UnrealProjects\Demo1\Demo1\Demo1\Intermediate\Build\Win64\UnrealEditor\Development\Demo1\Demo1.cpp.obj"
+"C:\Users\ChessyLocarda\Documents\UnrealProjects\Demo1\Demo1\Demo1\Intermediate\Build\Win64\UnrealEditor\Development\Demo1\Demo1GameModeBase.cpp.obj"
+"C:\Users\ChessyLocarda\Documents\UnrealProjects\Demo1\Demo1\Demo1\Intermediate\Build\Win64\UnrealEditor\Development\Demo1\Demo1.init.gen.cpp.obj"
+"C:\Users\ChessyLocarda\Documents\UnrealProjects\Demo1\Demo1\Demo1\Intermediate\Build\Win64\UnrealEditor\Development\Demo1\Demo1GameModeBase.gen.cpp.obj"
+"C:\Users\ChessyLocarda\Documents\UnrealProjects\Demo1\Demo1\Demo1\Intermediate\Build\Win64\UnrealEditor\Development\Demo1\Default.rc2.res"
+/OUT:"C:\Users\ChessyLocarda\Documents\UnrealProjects\Demo1\Demo1\Demo1\Intermediate\Build\Win64\UnrealEditor\Development\Demo1\UnrealEditor-Demo1.lib"
