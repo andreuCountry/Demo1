@@ -23,6 +23,10 @@ protected:
 
 	void MoveRight(float Value);
 
+	void TurnLeftRight(float Rate);
+
+	void LookUpDown(float Rate);
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;

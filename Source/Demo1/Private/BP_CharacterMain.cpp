@@ -65,6 +65,8 @@ void ABP_CharacterMain::MoveRight(float Value)
 	}
 }
 
+
+
 // Called to bind functionality to input
 void ABP_CharacterMain::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
@@ -74,5 +76,7 @@ void ABP_CharacterMain::SetupPlayerInputComponent(UInputComponent* PlayerInputCo
 
 	PlayerInputComponent->BindAxis("MoveForward", this, &ABP_CharacterMain::MoveForward);
 	PlayerInputComponent->BindAxis("MoveRight", this, &ABP_CharacterMain::MoveRight);
+	PlayerInputComponent->BindAxis("TurnLeftRight", this, &APawn::AddControllerYawInput);
+	PlayerInputComponent->BindAxis("LookUpDown", this, &APawn::AddControllerPitchInput);
 }
 

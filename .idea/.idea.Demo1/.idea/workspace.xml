@@ -13,41 +13,19 @@
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.patch_0.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.patch_0.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.patch_0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.patch_0.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Maps/Minimal_Default.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Maps/Minimal_Default.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo1.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Demo1.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/Demo1Editor/Development/Demo1Editor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/Demo1Editor/Development/Demo1Editor.uhtmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/Demo1Editor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/Demo1Editor/Development/DependencyCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/Demo1Editor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/Demo1Editor/Development/Makefile.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ActionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Definitions.Demo1.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Definitions.Demo1.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.cpp.lc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.cpp.lc.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.cpp.obj.response.lc" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.cpp.obj.response.lc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.init.gen.cpp.lc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.init.gen.cpp.lc.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.init.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.init.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.init.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.init.gen.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.init.gen.cpp.obj.response.lc" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.init.gen.cpp.obj.response.lc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.cpp.lc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.cpp.lc.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.cpp.obj.response.lc" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.cpp.obj.response.lc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.gen.cpp.lc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.gen.cpp.lc.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.gen.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.gen.cpp.obj.response.lc" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1GameModeBase.gen.cpp.obj.response.lc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.dll.response" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.exp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.lib" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.lib.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.suppressed.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.suppressed.exp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.suppressed.lib" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.suppressed.lib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Demo1/Demo1.init.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Demo1/Demo1.init.gen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Demo1/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Demo1/Timestamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/Demo1.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/Demo1.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/Demo1.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/Demo1.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Demo1/Private/BP_CharacterMain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Demo1/Private/BP_CharacterMain.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Demo1/Public/BP_CharacterMain.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Demo1/Public/BP_CharacterMain.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +138,7 @@
       <updated>1712519817085</updated>
       <workItem from="1712519818499" duration="3246000" />
       <workItem from="1712523304300" duration="60000" />
-      <workItem from="1712594340496" duration="3475000" />
+      <workItem from="1712594340496" duration="6987000" />
     </task>
     <servers />
   </component>
