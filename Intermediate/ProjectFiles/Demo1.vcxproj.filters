@@ -43,5 +43,17 @@
     <ClInclude Include="..\..\Source\Demo1\Demo1GameModeBase.h">
       <Filter>Source\Demo1</Filter>
     </ClInclude>
+    <Filter Include="Source\Demo1\Private">
+      <UniqueIdentifier>{90524CF9-ED8F-3828-805D-C4ADFC580453}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Demo1\Private\BP_CharacterMain.cpp">
+      <Filter>Source\Demo1\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Demo1\Public">
+      <UniqueIdentifier>{3751EA6D-3A7C-3B4F-B468-2587B954F05C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Demo1\Public\BP_CharacterMain.h">
+      <Filter>Source\Demo1\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
