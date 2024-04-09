@@ -8,27 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0a4cadf-75eb-449f-9dab-e74c6868c7e0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Demo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Demo1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.patch_0.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.patch_0.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.patch_0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.patch_0.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Demo1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/BP_CharacterMain.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/BP_CharacterMain.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/GM_Demo1BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/GM_Demo1BP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Maps/Minimal_Default.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Maps/Minimal_Default.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/Demo1Editor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/Demo1Editor/Development/DependencyCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/Demo1Editor/Development/Makefile.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.init.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/Demo1.init.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.exp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.lib" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.suppressed.lib" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.suppressed.lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/Demo1.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/Demo1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/Demo1.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/Demo1.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/Demo1.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/Demo1.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Demo1/Private/BP_CharacterMain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Demo1/Private/BP_CharacterMain.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.suppressed.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/Demo1/UnrealEditor-Demo1.suppressed.exp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +124,7 @@
       <workItem from="1712519818499" duration="3246000" />
       <workItem from="1712523304300" duration="60000" />
       <workItem from="1712594340496" duration="7392000" />
-      <workItem from="1712690355372" duration="2277000" />
+      <workItem from="1712690355372" duration="2637000" />
     </task>
     <servers />
   </component>
