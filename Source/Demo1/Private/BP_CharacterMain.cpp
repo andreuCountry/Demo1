@@ -13,9 +13,9 @@ ABP_CharacterMain::ABP_CharacterMain()
 
 	CameraBoom = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraMain"));
 	CameraBoom->SetupAttachment(RootComponent);
-	CameraBoom->TargetArmLength = 400.f;
+	CameraBoom->TargetArmLength = 0.f;
 	CameraBoom->bUsePawnControlRotation = true;
-	CameraBoom->SocketOffset = FVector(0.f, 0.f, 0.f);
+	CameraBoom->SocketOffset = FVector(0.f, 0.f, 100.f);
 
 	FollowCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("FollowCamera"));
 	FollowCamera->SetupAttachment(CameraBoom, USpringArmComponent::SocketName);

@@ -25,6 +25,15 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
     <Filter Include="Source\Demo1">
       <UniqueIdentifier>{8453199F-7DB6-314B-9F39-A5436262424B}</UniqueIdentifier>
     </Filter>
@@ -49,10 +58,16 @@
     <ClCompile Include="..\..\Source\Demo1\Private\BP_CharacterMain.cpp">
       <Filter>Source\Demo1\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Demo1\Private\BP_PrincipalDoor.cpp">
+      <Filter>Source\Demo1\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\Demo1\Public">
       <UniqueIdentifier>{3751EA6D-3A7C-3B4F-B468-2587B954F05C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\Demo1\Public\BP_CharacterMain.h">
+      <Filter>Source\Demo1\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Demo1\Public\BP_PrincipalDoor.h">
       <Filter>Source\Demo1\Public</Filter>
     </ClInclude>
   </ItemGroup>
