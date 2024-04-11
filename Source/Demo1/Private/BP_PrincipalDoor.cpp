@@ -3,20 +3,29 @@
 
 #include "BP_PrincipalDoor.h"
 
+#include "PhysicsEngine/PhysicsConstraintComponent.h"
+
 // Sets default values
 ABP_PrincipalDoor::ABP_PrincipalDoor()
 {
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
+	HeightMainDoor = 2.0f;
+	WeightMainDoor = 1.5f;
+
+	bool change = this->IsDefaultSubobject();
+
+	UE_LOG(LogTemp, Warning, TEXT("Temp: %s"), change ? TEXT("true") : TEXT("false"));
+	
+	PhysicsConstraint = CreateDefaultSubobject<UPhysicsConstraintComponent>(TEXT("PhysicsConst"));
+	PhysicsConstraint->SetupAttachment();
+
 }
 // Called when the game starts or when spawned
 void ABP_PrincipalDoor::BeginPlay()
 {
 	Super::BeginPlay();
-	
-	HeightMainDoor = 2.0f;
-	WeightMainDoor = 1.5f;
 
 	FVector NewScale = FVector(WeightMainDoor, 0, HeightMainDoor);
 	FTransform NewTransform;
