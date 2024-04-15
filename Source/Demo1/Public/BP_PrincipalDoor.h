@@ -24,13 +24,7 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 private:
-
-	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	float HeightMainDoor;
-
-	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	float WeightMainDoor;
-
+	
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
 	class UPhysicsConstraintComponent* PhysicsConstraint;
 
